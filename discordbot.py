@@ -11,4 +11,4 @@ async def on_ready():
 async def join_channel(ctx, channel: discord.TextChannel):
     await channel.join()
 
-client.run('MTA1MTIxNDIzODM4NDkyMjYzNA.Gcb0Ga.fCM4gl4m0UH_4qXLotmcWj53rEElbpywYTWXrc')
+client.run('MTA1MTUwNjueMjQwODYzNDOyOA.GAgflK.QQO7VTDE3xtaxDPFqc_jvpnjjMrDFOD20I1bHg')
